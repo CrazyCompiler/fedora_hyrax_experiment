@@ -1,6 +1,9 @@
 development:
   archivist:
     - archivist1@example.com
+  admin:
+  - parabveer01@gmail.com
+
 
 test:
   archivist:

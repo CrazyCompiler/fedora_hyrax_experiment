@@ -4,7 +4,7 @@
 #
 ---
 file_system:
-  :home: "/Users/virajpa/projects/E4R_exp/hyrax/.internal_test_app"
+  :home: "/Users/virajpa/projects/E4R_exp/hyrax/my_test_app"
 # dropbox:
 #   :app_key: YOUR_DROPBOX_APP_KEY
 #   :app_secret: YOUR_DROPBOX_APP_SECRET
